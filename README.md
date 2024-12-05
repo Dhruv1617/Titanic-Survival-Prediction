@@ -16,7 +16,7 @@ This project predicts the survival chances of passengers on the Titanic based on
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Dhruv1617/Titanic-Survival-Prediction
+   git clone https://github.com/Dhruv1617/Titanic-Survival-Prediction.git
    cd titanic-survival-prediction
    ``
 2. Install dependencies:
